@@ -9,8 +9,10 @@ body {
     height: 100vh;
 }
 
+
 h1 {
     margin-bottom: 20px;
+    display: inline;
 }
 
 .container {
